@@ -1,1 +1,15 @@
 CAMBIOS
+
+
+1.-LA BASE DE DATOS ACTUALIZABLE ESTA DENTRO DE LA CARPETA "BASE DE DATOS HISTORIAL"
+
+2.- SEAS/registro3.php
+
+3.- vistas/validar_persona.php, subInicio.php, headerSubinicio.php, header_regPersonaFisica.php,
+header_regPersonaMoral.php, regPersonaMoral.php
+
+4.- js/registro_seccionado.js, jquey.numeric.js
+
+5.- clases/usuario.php, buscar_actividad.php
+
+6.- procesos/usuario/registro/reg_PersonaMoral.php, reg_personaFisica.php
