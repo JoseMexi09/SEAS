@@ -10,6 +10,6 @@ header_regPersonaMoral.php, regPersonaMoral.php
 
 4.- js/registro_seccionado.js, jquey.numeric.js
 
-5.- clases/usuario.php, buscar_actividad.php
+5.- clases/usuario.php, buscar_actividad.php, config.php
 
 6.- procesos/usuario/registro/reg_PersonaMoral.php, reg_personaFisica.php
